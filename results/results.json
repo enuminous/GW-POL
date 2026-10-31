@@ -1,0 +1,492 @@
+{
+  "study": "EFMW-GW-POL-002",
+  "aggregate": [
+    {
+      "group": "GWTC-4.0",
+      "hypothesis": "S",
+      "log10_B_X_over_T": -14.724635860882236,
+      "half_width_90": 0.5855630706264533,
+      "B_X_over_T": 1.885229118666389e-15,
+      "B_lower_90": 4.895545242596333e-16,
+      "B_upper_90": 7.259842680940586e-15
+    },
+    {
+      "group": "GWTC-4.0",
+      "hypothesis": "V",
+      "log10_B_X_over_T": -5.32938863131692,
+      "half_width_90": 0.5759001616853255,
+      "B_X_over_T": 4.683940490094909e-06,
+      "B_lower_90": 1.2436873214074268e-06,
+      "B_upper_90": 1.764052598841547e-05
+    },
+    {
+      "group": "GWTC-4.0",
+      "hypothesis": "VS",
+      "log10_B_X_over_T": -5.209685752678718,
+      "half_width_90": 0.5756609655486459,
+      "B_X_over_T": 6.170413198654847e-06,
+      "B_lower_90": 1.6392805339553574e-06,
+      "B_upper_90": 2.3226042311541787e-05
+    },
+    {
+      "group": "GWTC-4.0",
+      "hypothesis": "TS",
+      "log10_B_X_over_T": -0.20083451715192568,
+      "half_width_90": 0.5696267998238944,
+      "B_X_over_T": 0.6297460945524548,
+      "B_lower_90": 0.16964406991236927,
+      "B_upper_90": 2.3377188710983257
+    },
+    {
+      "group": "GWTC-4.0",
+      "hypothesis": "TV",
+      "log10_B_X_over_T": 0.09573609298027086,
+      "half_width_90": 0.5702034750844959,
+      "B_X_over_T": 1.246625748994925,
+      "B_lower_90": 0.3353764921172974,
+      "B_upper_90": 4.633824357354249
+    },
+    {
+      "group": "GWTC-4.0",
+      "hypothesis": "TVS",
+      "log10_B_X_over_T": -0.31410185643689403,
+      "half_width_90": 0.5703633389652816,
+      "B_X_over_T": 0.48517469728516244,
+      "B_lower_90": 0.1304772529635746,
+      "B_upper_90": 1.8041036390570258
+    },
+    {
+      "group": "new",
+      "hypothesis": "S",
+      "log10_B_X_over_T": -4.780099225161065,
+      "half_width_90": 0.43587316462762016,
+      "B_X_over_T": 1.6592077776656433e-05,
+      "B_lower_90": 6.081736646058815e-06,
+      "B_upper_90": 4.5266189736285063e-05
+    },
+    {
+      "group": "new",
+      "hypothesis": "V",
+      "log10_B_X_over_T": -1.0596964725275226,
+      "half_width_90": 0.4310555123223847,
+      "B_X_over_T": 0.08715725172863162,
+      "B_lower_90": 0.03230338363732181,
+      "B_upper_90": 0.23515761117084805
+    },
+    {
+      "group": "new",
+      "hypothesis": "VS",
+      "log10_B_X_over_T": -0.8180021160688162,
+      "half_width_90": 0.43049115303233443,
+      "B_X_over_T": 0.1520540120991407,
+      "B_lower_90": 0.05642956869956139,
+      "B_upper_90": 0.4097217669435306
+    },
+    {
+      "group": "new",
+      "hypothesis": "TS",
+      "log10_B_X_over_T": 0.20880603692007194,
+      "half_width_90": 0.42885980717664157,
+      "B_X_over_T": 1.617357537757898,
+      "B_lower_90": 0.6024849874339046,
+      "B_upper_90": 4.3417603085574985
+    },
+    {
+      "group": "new",
+      "hypothesis": "TV",
+      "log10_B_X_over_T": 0.8153175447763634,
+      "half_width_90": 0.42799686092462985,
+      "B_X_over_T": 6.536082792695579,
+      "B_lower_90": 2.439611567159297,
+      "B_upper_90": 17.51113941581904
+    },
+    {
+      "group": "new",
+      "hypothesis": "TVS",
+      "log10_B_X_over_T": 0.6641827295035221,
+      "half_width_90": 0.42817836120164293,
+      "B_X_over_T": 4.615117148758027,
+      "B_lower_90": 1.7218858942932354,
+      "B_upper_90": 12.369754794642144
+    },
+    {
+      "group": "GWTC-5.0",
+      "hypothesis": "S",
+      "log10_B_X_over_T": -19.5047350860433,
+      "half_width_90": 0.7299791266358081,
+      "B_X_over_T": 3.1279868163730186e-20,
+      "B_lower_90": 5.8248639663647754e-21,
+      "B_upper_90": 1.6797476438766814e-19
+    },
+    {
+      "group": "GWTC-5.0",
+      "hypothesis": "V",
+      "log10_B_X_over_T": -6.389085103844444,
+      "half_width_90": 0.7193537731413505,
+      "B_X_over_T": 4.082393803771313e-07,
+      "B_lower_90": 7.790424500061567e-08,
+      "B_upper_90": 2.139285114558096e-06
+    },
+    {
+      "group": "GWTC-5.0",
+      "hypothesis": "VS",
+      "log10_B_X_over_T": -6.027687868747535,
+      "half_width_90": 0.7188241649357011,
+      "B_X_over_T": 9.382360831649607e-07,
+      "B_lower_90": 1.7926188807543577e-07,
+      "B_upper_90": 4.910619637021176e-06
+    },
+    {
+      "group": "GWTC-5.0",
+      "hypothesis": "TS",
+      "log10_B_X_over_T": 0.007971519768146251,
+      "half_width_90": 0.7130185308175359,
+      "B_X_over_T": 1.0185245928980107,
+      "B_lower_90": 0.19722092389416807,
+      "B_upper_90": 5.260052158029336
+    },
+    {
+      "group": "GWTC-5.0",
+      "hypothesis": "TV",
+      "log10_B_X_over_T": 0.9110536377566343,
+      "half_width_90": 0.7129609498140639,
+      "B_X_over_T": 8.148049106936968,
+      "B_lower_90": 1.5779480023861152,
+      "B_upper_90": 42.074076046018455
+    },
+    {
+      "group": "GWTC-5.0",
+      "hypothesis": "TVS",
+      "log10_B_X_over_T": 0.35008087306662805,
+      "half_width_90": 0.7131977618002943,
+      "B_X_over_T": 2.2391380655842377,
+      "B_lower_90": 0.43339421625810676,
+      "B_upper_90": 11.568542192456034
+    }
+  ],
+  "synthetic": {
+    "label": "SYNTHETIC / NOT OBSERVED STRAIN / NOT AN HLV FORECAST",
+    "arms": [
+      {
+        "u": [
+          0.579239157191296,
+          0.6345170951746406,
+          0.5117324053716487
+        ],
+        "v": [
+          0.7528822242211394,
+          -0.17577697383128227,
+          -0.6342482257937712
+        ]
+      },
+      {
+        "u": [
+          0.8477349643136067,
+          -0.48706694047405885,
+          0.2100267263408349
+        ],
+        "v": [
+          -0.5048787644528548,
+          -0.8623537728057034,
+          0.037992153562656665
+        ]
+      },
+      {
+        "u": [
+          -0.38287084539766414,
+          0.8852594879799394,
+          0.2640559688512524
+        ],
+        "v": [
+          0.8412436525471355,
+          0.21599544042805308,
+          0.4956360426396026
+        ]
+      }
+    ],
+    "sky_theta": 1.1,
+    "sky_phi": 0.7,
+    "response": [
+      [
+        -0.11236784198361974,
+        0.4723161903584002,
+        -0.48352315500989657,
+        0.6838050035364245
+      ],
+      [
+        -0.4717190351747087,
+        -0.1215995106429256,
+        0.2604433533982316,
+        -0.3683225226057081
+      ],
+      [
+        -0.3534472620556417,
+        -0.13380378179473668,
+        0.3579066423459971,
+        -0.5061564276691263
+      ]
+    ],
+    "tensor_rank": 2,
+    "tensor_condition": 1.2749044516944643,
+    "scalar_null_response": 0.09195771846855984,
+    "tensor_leakage": 4.442885604243687e-16,
+    "threshold": 2.575829303548901,
+    "results": [
+      {
+        "null_snr": 0,
+        "n": 100000,
+        "detections": 930,
+        "detected_fraction": 0.0093,
+        "analytic_fraction": 0.009999999999999997,
+        "binomial_se": 0.0003146426544510454
+      },
+      {
+        "null_snr": 1,
+        "n": 100000,
+        "detections": 5718,
+        "detected_fraction": 0.05718,
+        "analytic_fraction": 0.05770713327902787,
+        "binomial_se": 0.0007374077572669302
+      },
+      {
+        "null_snr": 2,
+        "n": 100000,
+        "detections": 28273,
+        "detected_fraction": 0.28273,
+        "analytic_fraction": 0.28236765396020386,
+        "binomial_se": 0.001423503291029615
+      },
+      {
+        "null_snr": 3,
+        "n": 100000,
+        "detections": 66578,
+        "detected_fraction": 0.66578,
+        "analytic_fraction": 0.6642793473059211,
+        "binomial_se": 0.001493359621955611
+      },
+      {
+        "null_snr": 5,
+        "n": 100000,
+        "detections": 99279,
+        "detected_fraction": 0.99279,
+        "analytic_fraction": 0.9923283041738541,
+        "binomial_se": 0.00027591377111875015
+      }
+    ],
+    "note": "Known sky and shared real temporal template, independent unit Gaussian detector noise, equal sensitivities. Same noise across arms. No sky/time/template trials, glitches, calibration or waveform uncertainties."
+  },
+  "conditional_coupling": {
+    "samples": 1000,
+    "max_identity_error": 5.551115123125783e-17,
+    "max_gradient_error": 2.7168350902329053e-11,
+    "min_kinetic_eigenvalue": 0.50007925379571,
+    "formulas": {
+      "F": "1 - sum(xi_a*x_a^2) - 2 sum(g_Ea*x_a) - 2 sum(a<b,h_Eab*x_a*x_b)",
+      "q": "gradient(F)",
+      "K": "I/F + 3 q q^T/(2 F^2)",
+      "alpha_squared": "q^T inverse(K) q/(4 F^2) = |q|^2/(4 F+6 |q|^2)",
+      "linear_breathing_strain": "h_b = -q dot delta_x/F (massless/local flat background limit)"
+    },
+    "caveat": "Classical conditional scalar-tensor map; ordinary Jordan-frame matter added explicitly, absent from source-free C1. Does not determine compact-object scalar charges or C_b(f), and is not a measured bound. Assumes F>0, zero gauge backgrounds, constant scalar background, stable potential Hessian and valid EFT."
+  },
+  "checks": [
+    {
+      "name": "Table6 GWTC-4.0 S",
+      "passed": true,
+      "detail": "central value and 90% numerical-evidence half width"
+    },
+    {
+      "name": "Table6 GWTC-4.0 V",
+      "passed": true,
+      "detail": "central value and 90% numerical-evidence half width"
+    },
+    {
+      "name": "Table6 GWTC-4.0 VS",
+      "passed": true,
+      "detail": "central value and 90% numerical-evidence half width"
+    },
+    {
+      "name": "Table6 GWTC-4.0 TS",
+      "passed": true,
+      "detail": "central value and 90% numerical-evidence half width"
+    },
+    {
+      "name": "Table6 GWTC-4.0 TV",
+      "passed": true,
+      "detail": "central value and 90% numerical-evidence half width"
+    },
+    {
+      "name": "Table6 GWTC-4.0 TVS",
+      "passed": true,
+      "detail": "central value and 90% numerical-evidence half width"
+    },
+    {
+      "name": "Table6 new S",
+      "passed": true,
+      "detail": "central value and 90% numerical-evidence half width"
+    },
+    {
+      "name": "Table6 new V",
+      "passed": true,
+      "detail": "central value and 90% numerical-evidence half width"
+    },
+    {
+      "name": "Table6 new VS",
+      "passed": true,
+      "detail": "central value and 90% numerical-evidence half width"
+    },
+    {
+      "name": "Table6 new TS",
+      "passed": true,
+      "detail": "central value and 90% numerical-evidence half width"
+    },
+    {
+      "name": "Table6 new TV",
+      "passed": true,
+      "detail": "central value and 90% numerical-evidence half width"
+    },
+    {
+      "name": "Table6 new TVS",
+      "passed": true,
+      "detail": "central value and 90% numerical-evidence half width"
+    },
+    {
+      "name": "Table6 GWTC-5.0 S",
+      "passed": true,
+      "detail": "central value and 90% numerical-evidence half width"
+    },
+    {
+      "name": "Table6 GWTC-5.0 V",
+      "passed": true,
+      "detail": "central value and 90% numerical-evidence half width"
+    },
+    {
+      "name": "Table6 GWTC-5.0 VS",
+      "passed": true,
+      "detail": "central value and 90% numerical-evidence half width"
+    },
+    {
+      "name": "Table6 GWTC-5.0 TS",
+      "passed": true,
+      "detail": "central value and 90% numerical-evidence half width"
+    },
+    {
+      "name": "Table6 GWTC-5.0 TV",
+      "passed": true,
+      "detail": "central value and 90% numerical-evidence half width"
+    },
+    {
+      "name": "Table6 GWTC-5.0 TVS",
+      "passed": true,
+      "detail": "central value and 90% numerical-evidence half width"
+    },
+    {
+      "name": "upstream macro byte equality",
+      "passed": true,
+      "detail": "all original macro groups"
+    },
+    {
+      "name": "independent aggregate vs upstream",
+      "passed": true,
+      "detail": "independent math.fsum implementation"
+    },
+    {
+      "name": "projector algebra",
+      "passed": true,
+      "detail": "tensor response removal"
+    },
+    {
+      "name": "scalar longitudinal degeneracy",
+      "passed": true,
+      "detail": "e_longitudinal=sqrt(2) nn and trace-free Michelson response"
+    },
+    {
+      "name": "synthetic scalar identifiable",
+      "passed": true,
+      "detail": "nonzero scalar projection for this fixed synthetic geometry"
+    },
+    {
+      "name": "injection rho=0",
+      "passed": true,
+      "detail": {
+        "empirical": 0.0093,
+        "analytic": 0.009999999999999997,
+        "binomial_se": 0.0003146426544510454
+      }
+    },
+    {
+      "name": "injection rho=1",
+      "passed": true,
+      "detail": {
+        "empirical": 0.05718,
+        "analytic": 0.05770713327902787,
+        "binomial_se": 0.0007374077572669302
+      }
+    },
+    {
+      "name": "injection rho=2",
+      "passed": true,
+      "detail": {
+        "empirical": 0.28273,
+        "analytic": 0.28236765396020386,
+        "binomial_se": 0.001423503291029615
+      }
+    },
+    {
+      "name": "injection rho=3",
+      "passed": true,
+      "detail": {
+        "empirical": 0.66578,
+        "analytic": 0.6642793473059211,
+        "binomial_se": 0.001493359621955611
+      }
+    },
+    {
+      "name": "injection rho=5",
+      "passed": true,
+      "detail": {
+        "empirical": 0.99279,
+        "analytic": 0.9923283041738541,
+        "binomial_se": 0.00027591377111875015
+      }
+    },
+    {
+      "name": "two detector tensor saturation",
+      "passed": true,
+      "detail": "two independent tensor amplitudes exhaust two detector channels"
+    },
+    {
+      "name": "Einstein frame coupling identity",
+      "passed": true,
+      "detail": {
+        "samples": 1000,
+        "max_abs_error": 5.551115123125783e-17
+      }
+    },
+    {
+      "name": "curvature gradient",
+      "passed": true,
+      "detail": {
+        "samples": 1000,
+        "max_abs_error": 2.7168350902329053e-11
+      }
+    },
+    {
+      "name": "positive kinetic matrix sampled",
+      "passed": true,
+      "detail": {
+        "min_eigenvalue": 0.50007925379571,
+        "domain": "F in [0.5,2], canonical scalar kinetic matrix"
+      }
+    }
+  ],
+  "all_checks_pass": true,
+  "environment": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "matplotlib": "3.10.8",
+    "platform": "Linux-6.18.57-x86_64-with-glibc2.39"
+  },
+  "protocol_sha256": "cacec40f43fe7ad9b6271a0da02a8e213e619167e8edb535f3a797b8a8a6271e"
+}

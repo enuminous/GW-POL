@@ -1,0 +1,32 @@
+[
+  {
+    "file": "POL.tar.gz",
+    "url": "https://dcc.ligo.org/public/0208/P2600410/001/POL.tar.gz",
+    "sha256": "b3028109f3bfeb041724db6de8e94ccc56559fc99254a052f3fe1ed1be4b365e"
+  },
+  {
+    "file": "paper.pdf",
+    "url": "https://dcc.ligo.org/public/0204/P2500781/017/paper.pdf",
+    "sha256": "c6d5a7049e95bd2f850fe08ee2dcf9da918dbf01065813e624d73a181141be0f"
+  },
+  {
+    "file": "efmw-readme.md",
+    "url": "https://raw.githubusercontent.com/enuminous/EFMW-Lagrangian/main/README.md",
+    "sha256": "53f4744af49f2d94f8d0530c57e6c00d4e8359d77016fadfca3061ede449b577"
+  },
+  {
+    "file": "efmw-candidate.md",
+    "url": "https://raw.githubusercontent.com/enuminous/EFMW-Lagrangian/main/candidate/CANDIDATE.md",
+    "sha256": "e7f58e6ec06ad6bb14c09e0482780d8d8c0bf8c4c0beb117757f65d44790d08f"
+  },
+  {
+    "file": "efmw-obligations.md",
+    "url": "https://raw.githubusercontent.com/enuminous/EFMW-Lagrangian/main/docs/PHYSICAL_OBLIGATIONS.md",
+    "sha256": "0d327953655cab0d4b953ba302e2e19621111216801ef66771b535abd1572c65"
+  },
+  {
+    "file": "efmw-commit.json",
+    "url": "https://api.github.com/repos/enuminous/EFMW-Lagrangian/commits/main",
+    "sha256": "940e6816299c29a71caca5aacabf9b7ffb4e78eb430b8d216b1ce5afedf66ea4"
+  }
+]

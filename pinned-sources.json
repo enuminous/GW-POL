@@ -1,0 +1,16 @@
+[
+  {
+    "file": "efmw-candidate.md",
+    "pinned_url": "https://raw.githubusercontent.com/enuminous/EFMW-Lagrangian/83f9d2ec03e055c6cd09aa6359189161ad1571f6/candidate/CANDIDATE.md",
+    "commit": "83f9d2ec03e055c6cd09aa6359189161ad1571f6",
+    "sha256": "e7f58e6ec06ad6bb14c09e0482780d8d8c0bf8c4c0beb117757f65d44790d08f",
+    "matches_downloaded_main": true
+  },
+  {
+    "file": "efmw-obligations.md",
+    "pinned_url": "https://raw.githubusercontent.com/enuminous/EFMW-Lagrangian/83f9d2ec03e055c6cd09aa6359189161ad1571f6/docs/PHYSICAL_OBLIGATIONS.md",
+    "commit": "83f9d2ec03e055c6cd09aa6359189161ad1571f6",
+    "sha256": "0d327953655cab0d4b953ba302e2e19621111216801ef66771b535abd1572c65",
+    "matches_downloaded_main": true
+  }
+]

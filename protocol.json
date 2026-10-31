@@ -1,0 +1,21 @@
+{
+  "study": "EFMW-GW-POL-002",
+  "date": "2026-10-30",
+  "scope": "Reproduce released aggregate polarization evidence; numerical linear-response and synthetic injection checks. No fresh strain likelihood or EFMW parameter inference.",
+  "data_release": "LIGO-P2600410-v1 / POL.tar.gz",
+  "paper": "LIGO-P2500781-v17 / 2026-07-21",
+  "hypotheses": ["S", "V", "VS", "TS", "TV", "TVS"],
+  "seed": 20261030,
+  "synthetic_trials_per_arm": 100000,
+  "null_projected_snr": [0, 1, 2, 3, 5],
+  "two_sided_per_template_false_alarm_probability": 0.01,
+  "pass_gates": {
+    "published_rounded_numbers": "All 36 central/error entries of Table 6 agree to two decimal places",
+    "upstream_macros": "Byte equality with released pol_macro.tex",
+    "projection_algebra": "Symmetry, idempotence and tensor annihilation each below 1e-12",
+    "synthetic_noise_and_power": "Each arm within five binomial standard errors of analytic probability",
+    "coupling_identity": "1000 stable F>0 examples: matrix inverse agrees with closed form within 1e-12",
+    "scalar_longitudinal_degeneracy": "Response proportionality error below 1e-12"
+  },
+  "interpretation": "These are reproducibility and numerical-consistency gates, not discovery criteria. Published data were inspected before this protocol; this is not a preregistered discovery analysis. Simulation seed and checks fixed before first simulation execution."
+}

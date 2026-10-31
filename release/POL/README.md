@@ -1,0 +1,1 @@
+The `summary.py` script regenerates the paper figure (pol\_logB.pdf) and the LaTeX macros (pol\_macro.tex) from the committed log Bayes factor JSON files. It only depends on the `.json` files and `paper.style` found in this data release.

@@ -1,0 +1,117 @@
+{
+  "checks_passed": 32,
+  "checks_total": 32,
+  "all_checks_pass": true,
+  "aggregate": [
+    {
+      "group": "GWTC-5.0",
+      "hypothesis": "S",
+      "log10_B_X_over_T": -19.5047350860433,
+      "half_width_90": 0.7299791266358081,
+      "B_X_over_T": 3.1279868163730186e-20,
+      "B_lower_90": 5.8248639663647754e-21,
+      "B_upper_90": 1.6797476438766814e-19
+    },
+    {
+      "group": "GWTC-5.0",
+      "hypothesis": "V",
+      "log10_B_X_over_T": -6.389085103844444,
+      "half_width_90": 0.7193537731413505,
+      "B_X_over_T": 4.082393803771313e-07,
+      "B_lower_90": 7.790424500061567e-08,
+      "B_upper_90": 2.139285114558096e-06
+    },
+    {
+      "group": "GWTC-5.0",
+      "hypothesis": "VS",
+      "log10_B_X_over_T": -6.027687868747535,
+      "half_width_90": 0.7188241649357011,
+      "B_X_over_T": 9.382360831649607e-07,
+      "B_lower_90": 1.7926188807543577e-07,
+      "B_upper_90": 4.910619637021176e-06
+    },
+    {
+      "group": "GWTC-5.0",
+      "hypothesis": "TS",
+      "log10_B_X_over_T": 0.007971519768146251,
+      "half_width_90": 0.7130185308175359,
+      "B_X_over_T": 1.0185245928980107,
+      "B_lower_90": 0.19722092389416807,
+      "B_upper_90": 5.260052158029336
+    },
+    {
+      "group": "GWTC-5.0",
+      "hypothesis": "TV",
+      "log10_B_X_over_T": 0.9110536377566343,
+      "half_width_90": 0.7129609498140639,
+      "B_X_over_T": 8.148049106936968,
+      "B_lower_90": 1.5779480023861152,
+      "B_upper_90": 42.074076046018455
+    },
+    {
+      "group": "GWTC-5.0",
+      "hypothesis": "TVS",
+      "log10_B_X_over_T": 0.35008087306662805,
+      "half_width_90": 0.7131977618002943,
+      "B_X_over_T": 2.2391380655842377,
+      "B_lower_90": 0.43339421625810676,
+      "B_upper_90": 11.568542192456034
+    }
+  ],
+  "synthetic": [
+    {
+      "null_snr": 0,
+      "n": 100000,
+      "detections": 930,
+      "detected_fraction": 0.0093,
+      "analytic_fraction": 0.009999999999999997,
+      "binomial_se": 0.0003146426544510454
+    },
+    {
+      "null_snr": 1,
+      "n": 100000,
+      "detections": 5718,
+      "detected_fraction": 0.05718,
+      "analytic_fraction": 0.05770713327902787,
+      "binomial_se": 0.0007374077572669302
+    },
+    {
+      "null_snr": 2,
+      "n": 100000,
+      "detections": 28273,
+      "detected_fraction": 0.28273,
+      "analytic_fraction": 0.28236765396020386,
+      "binomial_se": 0.001423503291029615
+    },
+    {
+      "null_snr": 3,
+      "n": 100000,
+      "detections": 66578,
+      "detected_fraction": 0.66578,
+      "analytic_fraction": 0.6642793473059211,
+      "binomial_se": 0.001493359621955611
+    },
+    {
+      "null_snr": 5,
+      "n": 100000,
+      "detections": 99279,
+      "detected_fraction": 0.99279,
+      "analytic_fraction": 0.9923283041738541,
+      "binomial_se": 0.00027591377111875015
+    }
+  ],
+  "coupling": {
+    "samples": 1000,
+    "max_identity_error": 5.551115123125783e-17,
+    "max_gradient_error": 2.7168350902329053e-11,
+    "min_kinetic_eigenvalue": 0.50007925379571,
+    "formulas": {
+      "F": "1 - sum(xi_a*x_a^2) - 2 sum(g_Ea*x_a) - 2 sum(a<b,h_Eab*x_a*x_b)",
+      "q": "gradient(F)",
+      "K": "I/F + 3 q q^T/(2 F^2)",
+      "alpha_squared": "q^T inverse(K) q/(4 F^2) = |q|^2/(4 F+6 |q|^2)",
+      "linear_breathing_strain": "h_b = -q dot delta_x/F (massless/local flat background limit)"
+    },
+    "caveat": "Classical conditional scalar-tensor map; ordinary Jordan-frame matter added explicitly, absent from source-free C1. Does not determine compact-object scalar charges or C_b(f), and is not a measured bound. Assumes F>0, zero gauge backgrounds, constant scalar background, stable potential Hessian and valid EFT."
+  }
+}
